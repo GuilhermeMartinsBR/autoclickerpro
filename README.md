@@ -33,8 +33,8 @@ Um autoclicker avançado com interface gráfica amigável, desenvolvido em Pytho
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/auto-clicker-pro.git
-cd auto-clicker-pro
+git clone https://github.com/guilhermemartinsbr/autoclickerpro
+cd autoclickerpro
 ```
 
 2. Instale as dependências necessárias:
