@@ -3,6 +3,7 @@
 Um autoclicker avançado com interface gráfica amigável, desenvolvido em Python usando Tkinter e pynput.
 
 ![Badge do Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+
 ![Auto Clicker Pro Screenshot](https://github.com/GuilhermeMartinsBR/autoclickerpro/blob/main/Janela%20AutoClickerPro%20-%20PrintScreen.png?raw=true)
 
 ## Características
