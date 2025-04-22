@@ -202,6 +202,7 @@ Este é um programa de autoclicker avançado que permite:
 • Opção para enviar teclas em vez de cliques
 
 Desenvolvido com Python e Tkinter.
+Por: Guilherme Martins
 """
         about_label = ttk.Label(about_tab, text=about_text, justify=tk.LEFT, wraplength=380)
         about_label.pack(pady=10)
