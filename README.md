@@ -106,4 +106,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Aviso Legal
 
-Este software é fornecido apenas para fins educacionais e de produtividade. O uso indevido para burlar sistemas de jogos, sites ou outros serviços pode violar os termos de serviço desses produtos. Use com responsabilidade.
+Este software é para fins educacionais e de produtividade. O uso para burlar jogos, sites ou serviços pode violar termos de uso. Use com responsabilidade. O autor não se responsabiliza por mau uso.
